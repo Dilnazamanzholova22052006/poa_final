@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "WSL",
+      "includePath": [
+        "/usr/include",
+        "/usr/include/c++/11",
+        "/usr/include/x86_64-linux-gnu",
+        "/usr/lib/gcc/x86_64-linux-gnu/11/include"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/mpic++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
